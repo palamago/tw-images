@@ -1,0 +1,12 @@
+{
+    "name": "pala/tw-images-download",
+    "require": {
+        "j7mbo/twitter-api-php": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "Pablo H. Paladino",
+            "email": "paladinop@gmail.com"
+        }
+    ]
+}
