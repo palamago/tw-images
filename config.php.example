@@ -7,3 +7,5 @@ $settings = array(
 );
 
 $twUser = "";
+
+$initialCursor = -1;

@@ -9,7 +9,7 @@ ini_set('display_errors', 1);
 $url = 'https://api.twitter.com/1.1/followers/ids.json';
 $requestMethod = 'GET';
 
-$cursor = -1;
+$cursor = $initialCursor;
 
 $twitter = new TwitterAPIExchange($settings);	
 
